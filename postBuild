@@ -1,2 +1,2 @@
-jupyter serverextension enable jupyterlab_sql --py --sys-prefix
+nbdime extensions --enable --sys-prefix
 jupyter lab build
